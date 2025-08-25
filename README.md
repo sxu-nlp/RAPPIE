@@ -109,6 +109,7 @@ Due to the large size of the model files, please feel free to contact us separat
 ## Citation
 
 Please cite our paper if you find this code useful for your research:
+
 '''bibtex
 @inproceedings{RAPPIE2025,
     title = "My Words Imply Your Opinion: Reader Agent-Based Propagation Enhancement for Personalized Implicit Emotion Analysis",
