@@ -105,3 +105,28 @@ Due to the large size of the model files, please feel free to contact us separat
   epochs_num=15 
 
   seed=6
+
+Please cite our paper if you find this code useful for your research:
+
+@inproceedings{RAPPIE2025,
+    title = "My Words Imply Your Opinion: Reader Agent-Based Propagation Enhancement for Personalized Implicit Emotion Analysis",
+    author = "Liao, Jian  and
+      Feng, Yu  and
+      Zheng, Yujin  and
+      Zhao, Jun  and
+      Wang, Suge  and
+      Zheng, JianXing",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.787/",
+    doi = "10.18653/v1/2025.acl-long.787",
+    pages = "16156--16172",
+    ISBN = "979-8-89176-251-0",
+ }
